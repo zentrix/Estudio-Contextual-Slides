@@ -3,19 +3,18 @@ Juan Carlos Villalvazo Rodriguez
 
 +++
 
-## Estudio Contextual Videojuego
-
-###Qué es un estudio contextual?
+### Estudio Contextual Videojuego
+### Qué es un estudio contextual?
 
 Es un método semi-estructurado para obtener información sobre el contexto de uso, en donde los usuarios son entrevistados y observados en su propio medio ambiente. La información obtenida es más real que si la obtuvieramos en un laboratorio. 
 
-###Objetivo del estudio contextual
+### Objetivo del estudio contextual
 
 El objetivo es conocer a las personas que juegan videojuegos
 
 ---
 
-## Estudio Contextual Videojuego
+### Estudio Contextual Videojuego
 
 ### Metodología utilizada
 
@@ -28,7 +27,7 @@ El objetivo es conocer a las personas que juegan videojuegos
 
 ---
 
-## Estudio Contextual Videojuego
+### Estudio Contextual Videojuego
 
 ### Estadísticas del usuario
 
