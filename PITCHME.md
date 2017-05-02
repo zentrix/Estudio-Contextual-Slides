@@ -1,4 +1,4 @@
-#Estudio contextual sobre videojuegos en la ciudad de colima
+##Estudio contextual sobre videojuegos en la ciudad de colima
 Juan Carlos Villalvazo Rodríguez
 
 ---
@@ -32,19 +32,19 @@ El objetivo es conocer a las personas que juegan videojuegos
 
 +++
 
-![Foto1](assets/foto 4.jpeg)
+![Foto1](assets/foto-4.jpeg)
 
 +++
 
-![Foto2](assets/foto 3.jpeg)
+![Foto2](assets/foto-3.jpeg)
 
 +++
 
-![Foto3](assets/foto 5.jpeg)
+![Foto3](assets/foto-5.jpeg)
 
 +++
 
-![Foto4](assets/foto 6.jpeg)
+![Foto4](assets/foto-6.jpeg)
 
 ---
 
