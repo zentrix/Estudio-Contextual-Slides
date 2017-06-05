@@ -1,4 +1,4 @@
-##Estudio contextual sobre videojuegos en la ciudad de colima
+##Estudio contextual videojuegos en la Universidad de Colima
 Juan Carlos Villalvazo Rodríguez
 
 ---
@@ -16,24 +16,24 @@ El objetivo es conocer a las personas que juegan videojuegos
 
 ## Metodología utilizada
 
-![Metodología](assets/UCD-Light_original.jpg)
+
 
 ---
 
 ## Estadísticas del usuario
 
-* Lugar: Ciudad de Colima
-* Fecha: 1 de Mayo del 2017
+* Lugar: Universidad de Colima
+* Fecha: Entre mayo 2016 a Diciembre 2016
 * Tecnología usada: Fotografía digital (Cámara del celular Sony Xperia C5 Ultra de 13MP)
-* Usuarios entrevistados: 1 usuario.
-* Evento que llego a afectar el estudio: N/A
+* Usuarios entrevistados: 0 usuario.
+* Evento que llego a afectar el estudio: La antiguedad de las fotos
 ---
 ## Uso de video juegos
 
 +++
 
 ![Foto1](assets/foto-4.jpeg)
-
+Dos amigos jugando
 +++
 
 ![Foto2](assets/foto-3.jpeg)
@@ -46,6 +46,12 @@ El objetivo es conocer a las personas que juegan videojuegos
 
 ![Foto4](assets/foto-6.jpeg)
 
+---
+## Conlusiones
+- es
+- s
+- s
+- s
 ---
 
 ### Estudio contextual sobre videojuegos en la ciudad de colima
