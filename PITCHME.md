@@ -1,4 +1,4 @@
-##Estudio contextual videojuegos en la Universidad de Colima
+##Estudio Contextual sobre el uso de videojuegos en la ciudad de Colima
 Juan Carlos Villalvazo Rodríguez
 
 ---
